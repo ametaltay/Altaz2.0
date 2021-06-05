@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_camera"
+        android:enabled="true"
+        android:icon="@drawable/ic_camera_icon"
+        android:title="Camera"/>
+    <item
+        android:id="@+id/nav_recycler"
+        android:enabled="true"
+        android:icon="@drawable/ic_recycler_icon"
+        android:title="Recycler"/>
+</menu>

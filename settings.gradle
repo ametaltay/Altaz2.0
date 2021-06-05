@@ -1,0 +1,2 @@
+rootProject.name = "Altaz2.0"
+include ':app'
