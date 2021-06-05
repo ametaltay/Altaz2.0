@@ -1,1 +1,1 @@
-# Adroidapp
+In aceasta aplicatie Android am implementat prima oara functia de camera ,ce prezinta in josul pagini un BottomNavigator ce permite navigarea intre functia de camera si cea de RecycleView .Functia de RecycleView permite vizualizarea imaginilor precum si partajarea acestora prin AndroidShareSheet .
